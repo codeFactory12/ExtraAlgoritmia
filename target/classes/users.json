@@ -1,0 +1,618 @@
+[
+  {
+    "id": "fabian1304",
+    "username": "Fabian",
+    "age": 25,
+    "likedGenres": ["Drama", "Horror", "Adventure", "Mystery"],
+    "likedTitles": ["Game of Thrones", "American Horror Story", "Suits", "The Walking Dead"]
+  },
+  {
+    "id": "ronaldo22",
+    "username": "Ronaldo",
+    "age": 22,
+    "likedGenres": ["Action", "Thriller", "Comedy"],
+    "likedTitles": ["Orphan Black", "Utopia"]
+  },
+  {
+    "id": "alex1",
+    "username": "Alex",
+    "age": 20,
+    "likedGenres": ["Thriller", "Romance", "Family"],
+    "likedTitles": ["Orphan Black", "Utopia"]
+  },
+  {
+    "id": "emanuel2",
+    "username": "Emanuel",
+    "age": 26,
+    "likedGenres": ["Action", "Fantasy", "Science-Fiction"],
+    "likedTitles": ["Orphan Black", "Utopia"]
+  },
+  {
+    "id": "messi10",
+    "username": "Messi",
+    "age": 18,
+    "likedGenres": ["Action", "Thriller"],
+    "likedTitles": ["Law & Order: Special Victims Unit", "South Park"]
+  },
+  {
+    "id": "diego11",
+    "username": "Diego",
+    "age": 22,
+    "likedGenres": ["Action", "Thriller","Western"],
+    "likedTitles": ["The Big Bang Theory", "Grey's Anatomy", "The Walking Dead"]
+  },
+  {
+    "id": "andres2005",
+    "username": "Andres",
+    "age": 18,
+    "likedGenres": ["Action", "Thriller"],
+    "likedTitles": ["The Big Bang Theory"]
+  },
+  {
+    "id": "luisa",
+    "username": "Luisa",
+    "age": 30,
+    "likedGenres": ["Romance", "Drama"],
+    "likedTitles": ["Death Note","Chicago Fire","The Originals"]
+  },
+  {
+    "id": "maria123",
+    "username": "Maria",
+    "age": 28,
+    "likedGenres": ["Comedy", "Romance"],
+    "likedTitles": ["The Simpsons", "Law & Order: Special Victims Unit"]
+  },
+  {
+    "id": "pedro4f",
+    "username": "Pedro",
+    "age": 25,
+    "likedGenres": ["Drama", "Horror", "Adventure", "Mystery"],
+    "likedTitles": ["Modern Family", "Criminal Minds"]
+  },
+  {
+    "id": "sofia20",
+    "username": "Sofia",
+    "age": 29,
+    "likedGenres": ["Fantasy", "Adventure"],
+    "likedTitles": ["American Horror Story", "Death Note","Chicago Fire","The Originals", "The Big Bang Theory"]
+  },
+  {
+    "id": "juan26",
+    "username": "Juan",
+    "age": 26,
+    "likedGenres": ["Science-Fiction", "Action"],
+    "likedTitles": ["Grey's Anatomy"]
+  },
+  {
+    "id": "ana9i",
+    "username": "Ana",
+    "age": 31,
+    "likedGenres": ["Romance", "Drama"],
+    "likedTitles": ["Titanic", "The Fault in Our Stars"]
+  },
+  {
+    "id": "10jdiego",
+    "username": "Diego",
+    "age": 27,
+    "likedGenres": ["Comedy", "Action"],
+    "likedTitles": ["Criminal Minds", "The Simpsons", "Law & Order: Special Victims Unit"]
+  },
+  {
+    "id": "11klaura",
+    "username": "Laura",
+    "age": 24,
+    "likedGenres": ["Romance", "Fantasy"],
+    "likedTitles": ["Twilight", "Beauty and the Beast"]
+  },
+  {
+    "id": "12lcarlos",
+    "username": "Carlos",
+    "age": 35,
+    "likedGenres": ["Action", "Adventure"],
+    "likedTitles": ["Criminal Minds", "Law & Order: Special Victims Unit"]
+  },
+  {
+    "id": "13melena",
+    "username": "Elena",
+    "age": 23,
+    "likedGenres": ["Drama", "Mystery", "Horror"],
+    "likedTitles": ["The Originals"]
+  },
+  {
+    "id": "14njavier",
+    "username": "Javier",
+    "age": 32,
+    "likedGenres": ["Science-Fiction", "Thriller"],
+    "likedTitles": ["Chicago Fire","The Originals", "The Big Bang Theory", "Grey's Anatomy"]
+  },
+  {
+    "id": "15olucia",
+    "username": "Lucia",
+    "age": 28,
+    "likedGenres": ["Comedy", "Romance"],
+    "likedTitles": ["Legends", "Orphan Black", "Utopia"]
+  },
+  {
+    "id": "16pmanuel",
+    "username": "Manuel",
+    "age": 21,
+    "likedGenres": ["Horror", "Thriller"],
+    "likedTitles": ["Law & Order: Special Victims Unit", "South Park", "Breaking Bad"]
+  },
+  {
+    "id": "17qandrea",
+    "username": "Andrea",
+    "age": 26,
+    "likedGenres": ["Drama", "Romance", "Horror", "Mystery", "Adventure"],
+    "likedTitles": ["Vikings", "American Horror Story", "The Walking Dead"]
+  },
+  {
+    "id": "18rmiguel",
+    "username": "Miguel",
+    "age": 25,
+    "likedGenres": ["Action", "Science-Fiction", "Drama", "Adventure", "Horror"],
+    "likedTitles": ["Death Note","Chicago Fire"]
+  },
+  {
+    "id": "19spatricia",
+    "username": "Patricia",
+    "age": 29,
+    "likedGenres": ["Comedy", "Drama"],
+    "likedTitles": ["Grey's Anatomy", "The Walking Dead"]
+  },
+  {
+    "id": "20thector",
+    "username": "Hector",
+    "age": 27,
+    "likedGenres": ["Action", "Adventure"],
+    "likedTitles": ["Breaking Bad", "Suits", "House of Cards"]
+  },
+  {
+    "id": "21ucristina",
+    "username": "Cristina",
+    "age": 33,
+    "likedGenres": ["Drama", "Romance"],
+    "likedTitles": ["Legends", "Orphan Black"]
+  },
+  {
+    "id": "22valberto",
+    "username": "Alberto",
+    "age": 24,
+    "likedGenres": ["Comedy", "Romance"],
+    "likedTitles": ["House of Cards", "Legends"]
+  },
+  {
+    "id": "23wmarina",
+    "username": "Marina",
+    "age": 31,
+    "likedGenres": ["Fantasy", "Adventure"],
+    "likedTitles": ["Modern Family", "Criminal Minds", "The Simpsons"]
+  },
+  {
+    "id": "24xeva",
+    "username": "Eva",
+    "age": 28,
+    "likedGenres": ["Action", "Science-Fiction"],
+    "likedTitles": ["American Horror Story", "Death Note"]
+  },
+  {
+    "id": "25ypablo",
+    "username": "Pablo",
+    "age": 30,
+    "likedGenres": ["Horror", "Thriller"],
+    "likedTitles": ["Law & Order: Special Victims Unit", "South Park", "Breaking Bad"]
+  },
+  {
+    "id": "26alice",
+    "username": "Alice",
+    "age": 30,
+    "likedGenres": ["Horror", "Mystery", "Thriller"],
+    "likedTitles": ["American Horror Story", "Death Note"]
+  },
+  {
+    "id": "27john",
+    "username": "John",
+    "age": 28,
+    "likedGenres": ["Action", "Adventure", "Science-Fiction"],
+    "likedTitles": ["Vikings", "The Originals"]
+  },
+  {
+    "id": "28lisa",
+    "username": "Lisa",
+    "age": 22,
+    "likedGenres": ["Comedy", "Romance", "Family"],
+    "likedTitles": ["Modern Family", "The Big Bang Theory"]
+  },
+  {
+    "id": "29david",
+    "username": "David",
+    "age": 35,
+    "likedGenres": ["Thriller", "Mystery", "Horror"],
+    "likedTitles": ["Breaking Bad", "American Horror Story"]
+  },
+  {
+    "id": "30emily",
+    "username": "Emily",
+    "age": 26,
+    "likedGenres": ["Drama", "Romance", "Comedy"],
+    "likedTitles": ["Grey's Anatomy", "The Big Bang Theory"]
+  },
+  {
+    "id": "31michael",
+    "username": "Michael",
+    "age": 29,
+    "likedGenres": ["Action", "Adventure", "Science-Fiction"],
+    "likedTitles": ["Legends", "The Walking Dead"]
+  },
+  {
+    "id": "32sara",
+    "username": "Sara",
+    "age": 27,
+    "likedGenres": ["Drama", "Thriller", "Mystery"],
+    "likedTitles": ["Criminal Minds", "Death Note"]
+  },
+  {
+    "id": "33peter",
+    "username": "Peter",
+    "age": 24,
+    "likedGenres": ["Comedy", "Romance", "Family"],
+    "likedTitles": ["Modern Family", "The Simpsons"]
+  },
+  {
+    "id": "34laura",
+    "username": "Laura",
+    "age": 31,
+    "likedGenres": ["Drama", "Romance", "Thriller"],
+    "likedTitles": ["House of Cards", "Grey's Anatomy"]
+  },
+  {
+    "id": "35alex",
+    "username": "Alex",
+    "age": 23,
+    "likedGenres": ["Action", "Adventure", "Science-Fiction"],
+    "likedTitles": ["The Walking Dead", "The Originals"]
+  },
+  {
+    "id": "36julia",
+    "username": "Julia",
+    "age": 32,
+    "likedGenres": ["Comedy", "Romance", "Family"],
+    "likedTitles": ["Modern Family", "The Big Bang Theory"]
+  },
+  {
+    "id": "37chris",
+    "username": "Chris",
+    "age": 33,
+    "likedGenres": ["Drama", "Mystery", "Thriller"],
+    "likedTitles": ["Breaking Bad", "Orphan Black"]
+  },
+  {
+    "id": "38sophia",
+    "username": "Sophia",
+    "age": 26,
+    "likedGenres": ["Comedy", "Romance", "Family"],
+    "likedTitles": ["Modern Family", "The Simpsons"]
+  },
+  {
+    "id": "39matt",
+    "username": "Matt",
+    "age": 29,
+    "likedGenres": ["Drama", "Mystery", "Thriller"],
+    "likedTitles": ["House of Cards", "Criminal Minds"]
+  },
+  {
+    "id": "40emma",
+    "username": "Emma",
+    "age": 27,
+    "likedGenres": ["Comedy", "Romance", "Family"],
+    "likedTitles": ["The Big Bang Theory", "Modern Family"]
+  },
+  {
+    "id": "41ryan",
+    "username": "Ryan",
+    "age": 25,
+    "likedGenres": ["Action", "Adventure", "Science-Fiction"],
+    "likedTitles": ["The Walking Dead", "Breaking Bad"]
+  },
+  {
+    "id": "42olivia",
+    "username": "Olivia",
+    "age": 28,
+    "likedGenres": ["Drama", "Romance", "Thriller"],
+    "likedTitles": ["House of Cards", "Grey's Anatomy"]
+  },
+  {
+    "id": "43jason",
+    "username": "Jason",
+    "age": 30,
+    "likedGenres": ["Comedy", "Romance", "Family"],
+    "likedTitles": ["Modern Family", "The Simpsons"]
+  },
+  {
+    "id": "44hannah",
+    "username": "Hannah",
+    "age": 26,
+    "likedGenres": ["Drama", "Mystery", "Thriller"],
+    "likedTitles": ["Criminal Minds", "Orphan Black"]
+  },
+  {
+    "id": "45samuel",
+    "username": "Samuel",
+    "age": 24,
+    "likedGenres": ["Drama", "Romance", "Thriller"],
+    "likedTitles": ["House of Cards", "Grey's Anatomy"]
+  },
+  {
+    "id": "46jessica",
+    "username": "Jessica",
+    "age": 29,
+    "likedGenres": ["Comedy", "Romance", "Family"],
+    "likedTitles": ["Modern Family", "The Simpsons"]
+  },
+  {
+    "id": "47nathan",
+    "username": "Nathan",
+    "age": 27,
+    "likedGenres": ["Action", "Adventure", "Science-Fiction"],
+    "likedTitles": ["The Walking Dead", "Breaking Bad"]
+  },
+  {
+    "id": "48sophie",
+    "username": "Sophie",
+    "age": 25,
+    "likedGenres": ["Drama", "Romance", "Thriller"],
+    "likedTitles": ["House of Cards", "Grey's Anatomy"]
+  },
+  {
+    "id": "49justin",
+    "username": "Justin",
+    "age": 28,
+    "likedGenres": ["Comedy", "Romance", "Family"],
+    "likedTitles": ["Modern Family", "The Simpsons"]
+  },
+  {
+    "id": "50natalie",
+    "username": "Natalie",
+    "age": 26,
+    "likedGenres": ["Drama", "Mystery", "Thriller"],
+    "likedTitles": ["Criminal Minds", "Orphan Black"]
+  },
+  {
+    "id": "51brandon",
+    "username": "Brandon",
+    "age": 30,
+    "likedGenres": ["Action", "Adventure", "Science-Fiction"],
+    "likedTitles": ["The Walking Dead", "Breaking Bad"]
+  },
+  {
+    "id": "52melissa",
+    "username": "Melissa",
+    "age": 29,
+    "likedGenres": ["Drama", "Romance", "Thriller"],
+    "likedTitles": ["House of Cards", "Grey's Anatomy"]
+  },
+  {
+    "id": "53andrew",
+    "username": "Andrew",
+    "age": 27,
+    "likedGenres": ["Comedy", "Romance", "Family"],
+    "likedTitles": ["Modern Family", "The Simpsons"]
+  },
+  {
+    "id": "54grace",
+    "username": "Grace",
+    "age": 25,
+    "likedGenres": ["Drama", "Mystery", "Thriller"],
+    "likedTitles": ["Criminal Minds", "Orphan Black"]
+  },
+  {
+    "id": "55daniel",
+    "username": "Daniel",
+    "age": 31,
+    "likedGenres": ["Action", "Adventure", "Science-Fiction"],
+    "likedTitles": ["The Walking Dead", "Breaking Bad"]
+  },
+  {
+    "id": "56amy",
+    "username": "Amy",
+    "age": 28,
+    "likedGenres": ["Drama", "Romance", "Thriller"],
+    "likedTitles": ["House of Cards", "Grey's Anatomy"]
+  },
+  {
+    "id": "57kevin",
+    "username": "Kevin",
+    "age": 26,
+    "likedGenres": ["Comedy", "Romance", "Family"],
+    "likedTitles": ["Modern Family", "The Simpsons"]
+  },
+  {
+    "id": "58anna",
+    "username": "Anna",
+    "age": 24,
+    "likedGenres": ["Drama", "Mystery", "Thriller"],
+    "likedTitles": ["Criminal Minds", "Orphan Black"]
+  },
+  {
+    "id": "59jacob",
+    "username": "Jacob",
+    "age": 29,
+    "likedGenres": ["Action", "Adventure", "Science-Fiction"],
+    "likedTitles": ["The Walking Dead", "Breaking Bad"]
+  },
+  {
+    "id": "60rachel",
+    "username": "Rachel",
+    "age": 27,
+    "likedGenres": ["Drama", "Romance", "Thriller"],
+    "likedTitles": ["House of Cards", "Grey's Anatomy"]
+  },
+  {
+    "id": "61matthew",
+    "username": "Matthew",
+    "age": 25,
+    "likedGenres": ["Comedy", "Romance", "Family"],
+    "likedTitles": ["Modern Family", "The Simpsons"]
+  },
+  {
+    "id": "62emily",
+    "username": "Emily",
+    "age": 26,
+    "likedGenres": ["Drama", "Mystery", "Thriller"],
+    "likedTitles": ["Criminal Minds", "Orphan Black"]
+  },
+  {
+    "id": "63tyler",
+    "username": "Tyler",
+    "age": 30,
+    "likedGenres": ["Action", "Adventure", "Science-Fiction"],
+    "likedTitles": ["The Walking Dead", "Breaking Bad"]
+  },
+  {
+    "id": "64oliver",
+    "username": "Oliver",
+    "age": 28,
+    "likedGenres": ["Drama", "Romance", "Thriller"],
+    "likedTitles": ["House of Cards", "Grey's Anatomy"]
+  },
+  {
+    "id": "65mia",
+    "username": "Mia",
+    "age": 29,
+    "likedGenres": ["Comedy", "Romance", "Family"],
+    "likedTitles": ["Modern Family", "The Simpsons"]
+  },
+  {
+    "id": "66ethan",
+    "username": "Ethan",
+    "age": 28,
+    "likedGenres": ["Action", "Adventure", "Science-Fiction"],
+    "likedTitles": ["The Walking Dead", "Breaking Bad"]
+  },
+  {
+    "id": "67ava",
+    "username": "Ava",
+    "age": 26,
+    "likedGenres": ["Drama", "Mystery", "Thriller"],
+    "likedTitles": ["Criminal Minds", "Orphan Black"]
+  },
+  {
+    "id": "68noah",
+    "username": "Noah",
+    "age": 30,
+    "likedGenres": ["Action", "Adventure", "Science-Fiction"],
+    "likedTitles": ["The Walking Dead", "Breaking Bad"]
+  },
+  {
+    "id": "69olivia",
+    "username": "Olivia",
+    "age": 27,
+    "likedGenres": ["Drama", "Romance", "Thriller"],
+    "likedTitles": ["House of Cards", "Grey's Anatomy"]
+  },
+  {
+    "id": "70william",
+    "username": "William",
+    "age": 25,
+    "likedGenres": ["Comedy", "Romance", "Family"],
+    "likedTitles": ["Modern Family", "The Simpsons"]
+  },
+  {
+    "id": "71isabella",
+    "username": "Isabella",
+    "age": 26,
+    "likedGenres": ["Drama", "Mystery", "Thriller"],
+    "likedTitles": ["Criminal Minds", "Orphan Black"]
+  },
+  {
+    "id": "72james",
+    "username": "James",
+    "age": 31,
+    "likedGenres": ["Action", "Adventure", "Science-Fiction"],
+    "likedTitles": ["The Walking Dead", "Breaking Bad"]
+  },
+  {
+    "id": "73sophia",
+    "username": "Sophia",
+    "age": 28,
+    "likedGenres": ["Drama", "Romance", "Thriller"],
+    "likedTitles": ["House of Cards", "Grey's Anatomy"]
+  },
+  {
+    "id": "74logan",
+    "username": "Logan",
+    "age": 24,
+    "likedGenres": ["Comedy", "Romance", "Family"],
+    "likedTitles": ["Modern Family", "The Simpsons"]
+  },
+  {
+    "id": "75mia",
+    "username": "Mia",
+    "age": 29,
+    "likedGenres": ["Comedy", "Romance", "Family"],
+    "likedTitles": ["Modern Family", "The Simpsons"]
+  },
+  {
+    "id": "76ethan",
+    "username": "Ethan",
+    "age": 28,
+    "likedGenres": ["Action", "Adventure", "Science-Fiction"],
+    "likedTitles": ["The Walking Dead", "Breaking Bad"]
+  },
+  {
+    "id": "77ava",
+    "username": "Ava",
+    "age": 26,
+    "likedGenres": ["Drama", "Mystery", "Thriller"],
+    "likedTitles": ["Criminal Minds", "Orphan Black"]
+  },
+  {
+    "id": "78noah",
+    "username": "Noah",
+    "age": 30,
+    "likedGenres": ["Action", "Adventure", "Science-Fiction"],
+    "likedTitles": ["The Walking Dead", "Breaking Bad"]
+  },
+  {
+    "id": "79oliver",
+    "username": "Oliver",
+    "age": 27,
+    "likedGenres": ["Drama", "Romance", "Thriller"],
+    "likedTitles": ["House of Cards", "Grey's Anatomy"]
+  },
+  {
+    "id": "80emma",
+    "username": "Emma",
+    "age": 25,
+    "likedGenres": ["Comedy", "Romance", "Family"],
+    "likedTitles": ["Modern Family", "The Simpsons"]
+  },
+  {
+    "id": "81charlotte",
+    "username": "Charlotte",
+    "age": 26,
+    "likedGenres": ["Drama", "Mystery", "Thriller"],
+    "likedTitles": ["Criminal Minds", "Orphan Black"]
+  },
+  {
+    "id": "82liam",
+    "username": "Liam",
+    "age": 31,
+    "likedGenres": ["Action", "Adventure", "Science-Fiction"],
+    "likedTitles": ["The Walking Dead", "Breaking Bad"]
+  },
+  {
+    "id": "83amelia",
+    "username": "Amelia",
+    "age": 28,
+    "likedGenres": ["Drama", "Romance", "Thriller"],
+    "likedTitles": ["House of Cards", "Grey's Anatomy"]
+  },
+  {
+    "id": "84mason",
+    "username": "Mason",
+    "age": 24,
+    "likedGenres": ["Comedy", "Romance", "Family"],
+    "likedTitles": ["Modern Family", "The Simpsons"]
+  }
+]
